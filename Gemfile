@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jruby-openssl', :platforms => :jruby
-gem 'rake', '> 11.0.1', '< 12.0'
+gem 'rake', '> 11.0.1', '< 13.0'
 
 group :development do
   gem 'awesome_print', :require => 'ap'
