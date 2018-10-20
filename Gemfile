@@ -20,7 +20,7 @@ group :test do
   gem 'jwt', '~> 1.5', '>= 1.5.6'
   gem 'multi_json', '~> 1.11.0'
   gem 'mime-types', '< 2.0.0'
-  gem 'netrc', '~> 0.7.7'
+  gem 'netrc', '~> 0.11.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'rspec', '~> 3.0.0'
   gem 'simplecov', :require => false
